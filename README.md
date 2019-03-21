@@ -1,0 +1,2 @@
+# Cattle-Genome-Functional-Annotation
+We established the first global map of regulatory elements (15 chromatin states) and defined their coordinated activities in cattle, through genome-wide profiling for six histone modifications, RNA polymerase II, CTCF-binding sites, DNA accessibility, DNA methylation, and transcriptome in Rumen Epithelial Primary Cells (REPC), rumen tissues, and Madin-Darby Bovine Kidney Epithelial Cells (MDBK). 
